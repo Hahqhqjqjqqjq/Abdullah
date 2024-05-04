@@ -2,7 +2,7 @@ foo = False
 if foo:
     pass
 import webbrowser
-webbrowser.open("https://t.me/N_Q_P")
+webbrowser.open("https://t.me/N_r_P")
 import telebot
 import requests
 import types
